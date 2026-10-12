@@ -5,7 +5,7 @@ A simple and clean dark-mode theme for VSCode style editors, with high contrast 
 ## Install (one click)
 1. Open the Extensions view (`Cmd+Shift+X`).
 2. Click the `...` menu (top-right of the panel) → **Install from VSIX...**.
-3. Select `matts-ide-dark-1.0.0.vsix`.
+3. Select `matts-ide-dark-<version>.vsix`.
 4. Apply the theme: `Cmd+K Cmd+T` → choose **Matt's IDE Dark**.
 
 No settings.json editing required, the custom find/selection colors are baked in.
