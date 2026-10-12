@@ -1,12 +1,16 @@
 {
   "name": "matts-ide-dark",
   "displayName": "Matt's IDE Dark",
-  "description": "Dark theme with custom high-contrast find/selection highlights.",
-  "version": "0.0.1",
+  "description": "A simple and clean dark-mode theme for VSCode style editors, with high contrast colours for text highlighting.",
+  "version": "1.0.0",
   "publisher": "matt-local",
   "license": "MIT",
-  "engines": { "vscode": "^1.70.0" },
-  "categories": ["Themes"],
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
   "contributes": {
     "themes": [
       {
