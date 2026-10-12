@@ -1,0 +1,19 @@
+{
+  "name": "matts-ide-dark",
+  "displayName": "Matt's IDE Dark",
+  "description": "Dark theme with custom high-contrast find/selection highlights.",
+  "version": "0.0.1",
+  "publisher": "matt-local",
+  "license": "MIT",
+  "engines": { "vscode": "^1.70.0" },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Matt's IDE Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/matts-ide-dark-color-theme.json"
+      }
+    ]
+  }
+}
